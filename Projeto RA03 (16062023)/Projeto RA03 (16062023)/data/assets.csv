@@ -1,0 +1,100 @@
+stock;Apple Inc.;AAPL;150.25
+stock;Microsoft Corporation;MSFT;250.75
+stock;Amazon.com, Inc.;AMZN;3250.50
+stock;Alphabet Inc.;GOOGL;2000.20
+stock;Facebook, Inc.;FB;350.30
+stock;Tesla, Inc.;TSLA;600.10
+stock;Netflix, Inc.;NFLX;550.75
+stock;Johnson & Johnson;JNJ;175.50
+stock;Procter & Gamble Co;PG;140.25
+stock;Visa Inc.;V;230.80
+stock;Company A;AAA;50.00
+stock;Company B;BBB;75.25
+stock;Company C;CCC;125.75
+stock;Company D;DDD;300.50
+stock;Company E;EEE;1800.20
+stock;Company F;FFF;400.30
+stock;Company G;GGG;700.10
+stock;Company H;HHH;475.75
+stock;Company I;III;220.50
+stock;Company J;JJJ;800.80
+stock;Company K;KKK;62.25
+stock;Company L;LLL;135.00
+stock;Company M;MMM;650.50
+stock;Company N;NNN;2400.20
+stock;Company O;OOO;550.30
+stock;Company P;PPP;900.10
+stock;Company Q;QQQ;375.75
+stock;Company R;RRR;195.50
+stock;Company S;SSS;280.80
+stock;Company T;TTT;55.00
+stock;Company U;UUU;80.25
+stock;Company V;VVV;155.75
+stock;Company W;WWW;275.50
+stock;Company X;XXX;1500.20
+stock;Company Y;YYY;300.30
+stock;Company ZZ;ZZZ;700.10
+stock;Company AA;AAB;175.75
+stock;Company BB;BBC;325.50
+stock;Company CC;CCD;1200.20
+stock;Company DD;DDE;250.30
+stock;Company EE;EEF;400.10
+stock;Company FF;FFG;90.75
+stock;Company GG;GGH;220.50
+stock;Company HH;HHI;75.00
+stock;Company II;IIJ;520.50
+stock;Company JJ;JJK;900.80
+stock;Company KK;KKL;33.25
+stock;Company LL;LLM;90.00
+stock;Company MM;MMN;425.50
+stock;Company NN;NNO;1700.20
+stock;Company OO;OOP;400.30
+stock;Company PP;PPQ;750.10
+stock;Company QQ;QQR;425.75
+stock;Company RR;RRS;150.50
+stock;Company SS;SST;200.80
+stock;Company TT;TTU;45.00
+stock;Company UU;UUV;62.25
+stock;Company VV;VVW;125.75
+stock;Company WW;WWX;225.50
+stock;Company XX;XXY;1200.20
+stock;Company YY;YYZ;240.30
+cbond;CDB Itaú;CDB Banco Itaú Unibanco S/A - Fev/2024;700.00;1000.00;2024;2;1
+cbond;CDB Bradesco;CDB Banco Bradesco S/A - Fev/2024;750.00;1000.00;2024;2;1
+cbond;CDB Banco do Brasil;CDB Banco do Brasil S/A - Mar/2024;800.00;1000.00;2024;3;1
+cbond;CDB Santander;CDB Banco Santander S/A - Abr/2024;850.00;1000.00;2024;4;1
+cbond;CDB Caixa;CDB Caixa Econômica Federal - Mai/2024;900.00;1000.00;2024;5;1
+cbond;CDB BTG Pactual;CDB BTG Pactual - Jun/2024;950.00;1000.00;2024;6;1
+cbond;CDB Safra;CDB Banco Safra S/A - Jul/2024;700.00;1000.00;2024;7;1
+cbond;CDB Itaú;CDB Banco Itaú Unibanco S/A - Ago/2024;750.00;1000.00;2024;8;1
+cbond;CDB Bradesco;CDB Banco Bradesco S/A - Set/2024;800.00;1000.00;2024;9;1
+cbond;CDB Banco do Brasil;CDB Banco do Brasil S/A - Out/2024;850.00;1000.00;2024;10;1
+cbond;CDB Santander;CDB Banco Santander S/A - Nov/2024;900.00;1000.00;2024;11;1
+cbond;CDB Caixa;CDB Caixa Econômica Federal - Dez/2024;950.00;1000.00;2024;12;1
+cbond;CDB BTG Pactual;CDB BTG Pactual - Jan/2025;700.00;1000.00;2025;1;1
+cbond;CDB Safra;CDB Banco Safra S/A - Fev/2025;750.00;1000.00;2025;2;1
+cbond;CDB Itaú;CDB Banco Itaú Unibanco S/A - Mar/2025;800.00;1000.00;2025;3;1
+cbond;CDB Bradesco;CDB Banco Bradesco S/A - Abr/2025;850.00;1000.00;2025;4;1
+cbond;CDB Banco do Brasil;CDB Banco do Brasil S/A - Mai/2025;900.00;1000.00;2025;5;1
+cbond;CDB Santander;CDB Banco Santander S/A - Jun/2025;950.00;1000.00;2025;6;1
+cbond;CDB Caixa;CDB Caixa Econômica Federal - Jul/2025;700.00;1000.00;2025;7;1
+cbond;CDB BTG Pactual;CDB BTG Pactual - Ago/2025;750.00;1000.00;2025;8;1
+tbond;Tesouro IPCA+;NTN-B 2025;1200.31;4200.00;2025;05;15
+tbond;Tesouro IPCA+;NTN-B 2030;1500.50;4500.00;2030;10;10
+tbond;Tesouro IPCA+;NTN-B 2035;1900.50;4900.00;2035;05;20
+tbond;Tesouro IPCA+;NTN-B 2040;2200.75;5200.00;2040;10;25
+tbond;Tesouro IPCA+;NTN-B 2045-1;2600.00;5700.00;2045;05;15
+tbond;Tesouro IPCA+;NTN-B 2045-2;2900.25;6000.00;2045;10;10
+tbond;Tesouro IPCA+;NTN-B 2045-3;3300.50;6400.00;2045;05;20
+tbond;Tesouro IPCA+;NTN-B 2045-4;3600.75;6800.00;2045;10;25
+tbond;Tesouro IPCA+;NTN-B 2045-5;4000.00;7200.00;2045;05;15
+tbond;Tesouro Prefixado;LTN 2026;950.50;1000.00;2026;01;01
+tbond;Tesouro Prefixado;LTN 2027;900.75;1000.00;2027;05;05
+tbond;Tesouro Prefixado;LTN 2028;920.50;1000.00;2028;09;09
+tbond;Tesouro Prefixado;LTN 2029;900.75;1000.00;2029;01;01
+tbond;Tesouro Prefixado;LTN 2030;930.50;1000.00;2030;05;05
+tbond;Tesouro Prefixado;LTN 2031;880.75;1000.00;2031;09;09
+tbond;Tesouro Prefixado;LTN 2032;920.50;1000.00;2032;01;01
+tbond;Tesouro Prefixado;LTN 2033;900.75;1000.00;2033;05;05
+tbond;Tesouro Prefixado;LTN 2034;910.50;1000.00;2034;09;09
+tbond;Tesouro Prefixado;LTN 2035;850.75;1000.00;2035;01;01

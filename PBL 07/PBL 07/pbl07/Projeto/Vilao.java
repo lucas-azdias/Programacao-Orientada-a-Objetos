@@ -1,0 +1,17 @@
+package Projeto;
+
+public abstract class Vilao extends Personagem {
+
+	public Vilao(float posicao_x, float posicao_y, float posicao_z, int cor) {
+		super(posicao_x, posicao_y, posicao_z, cor);
+	}
+
+	@Override
+	public void correr() {
+		posicao_x++;
+		posicao_y++;
+		
+		System.out.println("Vilao correndo...");
+	}
+
+}
